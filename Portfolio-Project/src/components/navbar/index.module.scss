@@ -1,0 +1,36 @@
+.navbar {
+  display: flex;
+  margin: 40px 40px;
+  background-color: white;
+
+  .logo {
+    width: 10vh;
+  }
+
+  .logo_m {
+    width: 10vh;
+    height: 8vh;
+    margin-left: 36%;
+    margin-top: -80px;
+    transform: rotate(350deg);
+    box-shadow: 5px 5px 5px 0px;
+    border-radius: 10px;
+    border: 2px solid black;
+  }
+
+  .me {
+    margin-left: 0px;
+    padding-top: 10px;
+  }
+
+  .mattiaaa {
+    background-color: rgba(100, 110, 203, 255);
+    margin-top: 20px;
+    margin-left: 30%;
+    width: 20vh;
+    height: 5vh;
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 20px 20px 20px 20px;
+  }
+}
